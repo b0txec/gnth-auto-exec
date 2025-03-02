@@ -12,3 +12,6 @@ you have to have the given tools to be able to run them
 is the only thing needed for this
 
 in general the tools do run and work, i have not found any errors jet, but will keep working on them since i do use them myself
+
+
+to run this tool - ./main.sh // that runs the menu with the tools, but either way you can do ./'any-tool.sh'
