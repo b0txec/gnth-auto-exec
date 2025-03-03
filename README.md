@@ -26,7 +26,7 @@ sudo apt install lolcat -y
 ```
 
 
-- [x] linked wordlists for faster use
+- [ ] linked wordlists for faster use
 - [ ] rotating fingerprints for gobuster and hydra
 - [ ] add a config/install file.. ?
 
