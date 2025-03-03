@@ -1,5 +1,5 @@
 # gnth-auto-exec
-![Young Frankenstein by Horsenburger](https://16colo.rs/pack/mist1024/HORSENBURGER-YOUNG_FRANKENSTEIN.PNG)
+![Young Frankenstein by Horsenburger](https://16colo.rs/pack/mist1024/x1/HORSENBURGER-YOUNG_FRANKENSTEIN.PNG)
 
 
 auto-execution tool for gobuster, nmap, thcdump and hydra
